@@ -27,6 +27,7 @@
     "typescript": "5.1.3"
   },
   "devDependencies": {
+    "@opennextjs/cloudflare": "^1.17.1",
     "@types/jsdom": "^21.1.1",
     "add": "^2.0.6"
   }
