@@ -68,8 +68,8 @@ export default function Index() {
     <Center height='100vh'>
       <FormControl as='form' maxWidth={['80%', '50%', '30%']} onSubmit={handleFormSubmit}>
         <FormLabel htmlFor='url'>
-          Insert a YouTube channel link:
-          <Input name='url' type='url' />
+          粘贴 YouTube 频道链接:
+          <Input name='url' type='url' placeholder='例如：https://www.youtube.com/@ztm0929'/>
         </FormLabel>
         <Button
           type='submit'
@@ -79,7 +79,7 @@ export default function Index() {
           isLoading={isSubmit}
           leftIcon={<FaRss />}
         >
-          Get RSS link
+          获取 RSS 订阅链接
         </Button>
       </FormControl>
     </Center>
