@@ -9,10 +9,10 @@ importers:
   .:
     dependencies:
       '@chakra-ui/next-js':
-        specifier: ^2.1.4
+        specifier: ^2.4.2
         version: 2.4.2(@chakra-ui/react@2.10.9(@emotion/react@11.14.0(@types/react@18.2.11)(react@18.2.0))(@emotion/styled@11.14.1(@emotion/react@11.14.0(@types/react@18.2.11)(react@18.2.0))(@types/react@18.2.11)(react@18.2.0))(@types/react@18.2.11)(framer-motion@10.18.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@emotion/react@11.14.0(@types/react@18.2.11)(react@18.2.0))(next@16.1.6(@babel/core@7.29.0)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(react@18.2.0)
       '@chakra-ui/react':
-        specifier: '2'
+        specifier: ^2.10.9
         version: 2.10.9(@emotion/react@11.14.0(@types/react@18.2.11)(react@18.2.0))(@emotion/styled@11.14.1(@emotion/react@11.14.0(@types/react@18.2.11)(react@18.2.0))(@types/react@18.2.11)(react@18.2.0))(@types/react@18.2.11)(framer-motion@10.18.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@emotion/react':
         specifier: ^11.11.1
